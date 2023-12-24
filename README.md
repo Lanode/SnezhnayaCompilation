@@ -84,4 +84,9 @@
 
 ## Картины
 
+### Официальные
+<img src="assets/images/Palace_in_Snezhnaya.webp" width="200">
+<img src="assets/images/word-image-1.webp" width="200">
+<img src="assets/images/Cil2c3WEJ_w.jpg" width="200">
+
 ## Персонажи
