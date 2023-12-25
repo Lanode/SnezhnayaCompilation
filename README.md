@@ -82,7 +82,7 @@
 
 [Сравнение темы Фишль и Фатуев](https://www.youtube.com/watch?v=_nNkbJMRryg)
 
-## Картины
+## Галерея
 
 ### Официальные
 <img src="assets/images/Palace_in_Snezhnaya.webp" width="200">
